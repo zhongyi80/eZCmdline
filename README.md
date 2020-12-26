@@ -1,4 +1,4 @@
-# ezCmd
+# eZCmdline
 eZCmdline is a simple & powerful command line phaser.
 
   ```
